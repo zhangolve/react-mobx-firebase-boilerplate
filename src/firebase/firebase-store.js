@@ -1,10 +1,11 @@
 import firebase from 'firebase';
 
 var config = {
-  apiKey: "AIzaSyBnOKy0aJtSl8X9FjmC-eRJyT1_nlwksWA",
-  authDomain: "react-mobx-firebase.firebaseapp.com",
-  databaseURL: "https://react-mobx-firebase.firebaseio.com",
-  storageBucket: "react-mobx-firebase.appspot.com",
+    apiKey: "AIzaSyCtXeZAyNbWn9lT36vE85zJQZfjZRt-2t8",
+    authDomain: "zxw13820.firebaseapp.com",
+    databaseURL: "https://zxw13820.firebaseio.com",
+    storageBucket: "zxw13820.appspot.com",
+    messagingSenderId: "1048296019597"
 };
 firebase.initializeApp(config);
 
